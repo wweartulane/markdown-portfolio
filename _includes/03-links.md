@@ -1,1 +1,1 @@
-www.github.com
+[text](https://example.com)
